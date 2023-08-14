@@ -1,4 +1,4 @@
-fzfbb
+fzf
 <!-- ### Hi there 👋
 
 
