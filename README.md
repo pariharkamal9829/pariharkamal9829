@@ -9,17 +9,6 @@ Here are some ideas to get you started: -->
 <a href="https://www.github.com/pariharkamal9829" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pariharkamal9829?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-Here's a more **creative and well-structured** way to showcase your **DevOps, AWS, Azure, and IAC skills** in your GitHub README:  
-
----
-Got it! You want something **impressive, unique, and visually creative** that truly represents an **Aspiring DevOps Engineer**. Here's a **highly engaging and structured** GitHub README **skills section** with a **modern design** using emojis, badges, and a **DevOps workflow representation**:  
-
----
-
-Got it! You want a **compact, visually appealing, and image-rich** GitHub README that highlights your **DevOps, AWS, Azure, and automation skills** in a **modern** and **structured** way.  
-
-Here's a **redesigned** **skills section** with **icons, images, and a compact layout**:  
-
 ---
 ## 🚀 *Tech Stack & Skills*  
 
